@@ -207,3 +207,7 @@ git push
 ---
 
 Happy reading — understand yourself, understand others.
+
+---
+
+Built by Girish Lade — https://ladestack.in
